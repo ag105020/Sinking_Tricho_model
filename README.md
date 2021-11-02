@@ -1,10 +1,10 @@
 # Sinking_Tricho_model
 
 
-Required environment: 
+Required environment: <br>
 The model is written in python3. The model is light weight and thus a typical laptop computer with over 8GB RAM memory would be sufficient to run it. 
 
-Preparation: 
+Preparation: <br>
 Download all the files and put them in one folder. Arrange path in each code for your computer. 
 
 Plotting: <br>
